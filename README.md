@@ -10,4 +10,4 @@ CUDA C is used to implement GPU vertion of this software.
 
 As benchmark 1080p video processing time is 15X time faster in GPU than CPU. 
 
-Follow : https://drive.google.com/file/d/0B0ZpT91MtLMtZjh6OXBpUUFudEk/viewhttps://drive.google.com/file/d/0B0ZpT91MtLMtZjh6OXBpUUFudEk/view
+Follow : https://drive.google.com/file/d/0B0ZpT91MtLMtZjh6OXBpUUFudEk/view
